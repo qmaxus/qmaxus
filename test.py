@@ -1,4 +1,4 @@
 import time
 
 
-print("AB")
+print("AAB")
